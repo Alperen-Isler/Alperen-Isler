@@ -9,8 +9,8 @@ I'm currently learning full-stack web development through The Odin Project.
 - Git / GitHub workflow
 
 ## Projects
-- Calculator – browser calculator with keyboard support
 - Etch-a-Sketch – interactive drawing grid built with JavaScript and DOM manipulation
+- Calculator – browser calculator with keyboard support
 - Tic Tac Toe – modular browser game
 - Game Library – CRUD-style app with DOM rendering
 
