@@ -3,14 +3,20 @@
 I'm currently learning full-stack web development through The Odin Project.
 
 ## Currently learning
-- JavaScript modules
+
+- JavaScript
 - Webpack
+- Git / GitHub
 - DOM manipulation
-- Git / GitHub workflow
+- ES Modules
 
 ## Projects
-- Etch-a-Sketch – interactive drawing grid built with JavaScript and DOM manipulation
-- Calculator – browser calculator with keyboard support
-- Tic Tac Toe – modular browser game
-- Game Library – CRUD-style app with DOM rendering
 
+- [Calculator](https://github.com/Alperen-Isler/calculator) – browser calculator built with JavaScript
+- [Etch-a-Sketch](https://github.com/Alperen-Isler/etch-a-sketch) – interactive drawing grid using DOM manipulation
+- [Game Library](https://github.com/Alperen-Isler/game-library) – small library app for storing and displaying games
+- [Tic Tac Toe](https://github.com/Alperen-Isler/tic-tac-toe) – browser-based game with JavaScript logic
+
+## Current focus
+
+I'm currently learning how to structure JavaScript projects with Webpack and ES Modules.
